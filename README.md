@@ -5,6 +5,8 @@
 A financial institution is looking to improve its credit risk assessment process for loan applicants. Currently, the institution relies on traditional methods which may not effectively capture the nuances of individual borrower risk. To enhance their decision-making process, they aim to implement data-driven credit risk models.
 
 **Task:**
+
+
 The task involves building and deploying credit risk prediction models using machine learning techniques. The primary objective is to accurately assess the probability of default (PD) for loan applicants based on various features provided in the dataset. This involves several steps:
 
 Data Preprocessing:
