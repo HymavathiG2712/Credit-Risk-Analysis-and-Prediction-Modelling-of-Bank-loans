@@ -1,9 +1,10 @@
 # Credit-Risk-Analysis-and-Prediction-Modelling-of-Bank-loans
 
-Situation:
+**Situation:**
+
 A financial institution is looking to improve its credit risk assessment process for loan applicants. Currently, the institution relies on traditional methods which may not effectively capture the nuances of individual borrower risk. To enhance their decision-making process, they aim to implement data-driven credit risk models.
 
-Task:
+**Task:**
 The task involves building and deploying credit risk prediction models using machine learning techniques. The primary objective is to accurately assess the probability of default (PD) for loan applicants based on various features provided in the dataset. This involves several steps:
 
 Data Preprocessing:
@@ -33,8 +34,13 @@ Tuning hyperparameters to improve the performance of the best-performing models.
 Deployment:
 
 Deploying the optimized model into the institution's existing credit risk assessment system for real-time predictions.
-Action:
+
+**Action:**
+
+
 The project team collected the dataset from a reliable source (UCI Machine Learning Repository) and performed thorough data preprocessing and exploratory analysis. They utilized Python libraries such as pandas, NumPy, and seaborn for data manipulation and visualization. Machine learning models were built using scikit-learn, and techniques like SMOTE were applied to handle imbalanced data. Various classification algorithms were trained and evaluated to identify the best-performing model.
 
-Result:
+**Result:**
+
+
 After implementing the models and evaluating their performance, the project achieved an accuracy of 85%. The optimized model was deployed successfully into the institution's credit risk assessment system, improving the accuracy of loan default predictions and enhancing the overall decision-making process.
